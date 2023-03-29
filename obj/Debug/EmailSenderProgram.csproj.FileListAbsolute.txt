@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe.config
+C:\Users\User\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe
+C:\Users\User\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.pdb
+C:\Users\User\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.exe
+C:\Users\User\Downloads\EmailSenderProgram_1+2\EmailSenderProgram\EmailSenderProgram\obj\Debug\EmailSenderProgram.pdb
